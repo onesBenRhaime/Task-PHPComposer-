@@ -1,5 +1,9 @@
 {
     "require": {
-        "guzzlehttp/guzzle": "^7.0"
+        "guzzlehttp/guzzle": "^7.0",
+        "ralouphie/getallheaders": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {}
     }
 }
